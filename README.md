@@ -1,2 +1,2 @@
 # Hotel_Management
-https://shivamrazdan.netlify.app/
+Check out the wesite by clicking [here](https://shivamrazdan.netlify.app/)
